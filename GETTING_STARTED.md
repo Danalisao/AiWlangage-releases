@@ -51,7 +51,7 @@ Tests de parité fonctionnelle (WLangage ↔ stack cible)
 ## Étape 1 — Installation
 
 ```bash
-git clone https://github.com/Danalisao/AiWlangage.git
+git clone https://github.com/Danalisao/AiWlangage-releases.git
 cd AiWlangage
 
 # Créer l'environnement virtuel
