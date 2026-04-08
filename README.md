@@ -17,7 +17,7 @@ Le flux recommandé pour tous les utilisateurs (dev ou production) :
 
 **Tous les systèmes (Windows, macOS, Linux)** :
 
-1. Accédez à la page des releases : [github.com/Danalisao/AiWlangage/releases/latest](https://github.com/Danalisao/AiWlangage/releases/latest)
+1. Accédez à la page des releases : [github.com/Danalisao/AiWlangage-releases/releases/latest](https://github.com/Danalisao/AiWlangage-releases/releases/latest)
 2. Téléchargez la source zip (`.zip`) ou archive tar (`.tar.gz`) disponible
 3. Extrayez localement
 4. Lancez le script d'installation :
@@ -47,12 +47,12 @@ cd ~/AiWlangage              # ou C:\AiWlangage sur Windows
 
 **macOS / Linux** :
 ```bash
-curl -sSL https://raw.githubusercontent.com/Danalisao/AiWlangage/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Danalisao/AiWlangage-releases/main/install.sh | bash
 ```
 
 **Windows (PowerShell)** :
 ```powershell
-irm https://raw.githubusercontent.com/Danalisao/AiWlangage/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/Danalisao/AiWlangage-releases/main/install.ps1 | iex
 ```
 
 ⚠️ **Attention :** Certains antivirus (Windows Defender, Kaspersky, Avast, Norton…) bloquent ce pattern PowerShell en tant que vecteur potentiel de malveillance. Si vous rencontrez une erreur d'exécution, utilisez le **flux recommandé** (release + exécution locale).
