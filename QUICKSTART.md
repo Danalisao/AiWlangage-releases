@@ -28,7 +28,7 @@ Un backend LLM est requis pour les analyses. Options recommandées :
 
 **Flux standard pour développeurs et utilisateurs** :
 
-1. Allez à : [github.com/Danalisao/AiWlangage/releases/latest](https://github.com/Danalisao/AiWlangage/releases/latest)
+1. Allez à : [github.com/Danalisao/AiWlangage-releases/releases/latest](https://github.com/Danalisao/AiWlangage-releases/releases/latest)
 2. Téléchargez la source zip (`.zip`) ou archive tar (`.tar.gz`) disponible
 3. Extrayez-la localement
 4. Lancez l'installation :
@@ -56,12 +56,12 @@ cd ~/AiWlangage
 
 **macOS / Linux** :
 ```bash
-curl -sSL https://raw.githubusercontent.com/Danalisao/AiWlangage/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Danalisao/AiWlangage-releases/main/install.sh | bash
 ```
 
 **Windows (PowerShell)** :
 ```powershell
-irm https://raw.githubusercontent.com/Danalisao/AiWlangage/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/Danalisao/AiWlangage-releases/main/install.ps1 | iex
 ```
 
 ⚠️ Certains antivirus bloquent ce pattern. Si l'exécution échoue, utilisez le **flux recommandé** (release + exécution locale).
